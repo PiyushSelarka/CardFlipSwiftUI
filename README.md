@@ -11,8 +11,20 @@
 </a>
 <p></p> 
 
+Card Flip animation in SwiftUI
+
 ## Preview
 https://user-images.githubusercontent.com/42262083/167073749-7b073110-52db-484f-ac74-a2308ee8735f.mp4
+
+## Requirements
+- iOS 13.0+
+- Xcode 12.5+
+
+## Usage
+```swift
+withAnimation(Animation.linear(duration: 0.5)) {
+}
+```
 
 ## 📱 Check out other lists of our Mobile UI libraries
 
