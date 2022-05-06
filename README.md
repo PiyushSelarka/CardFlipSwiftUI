@@ -14,7 +14,8 @@
 Card Flip animation in SwiftUI
 
 ## Preview
-https://user-images.githubusercontent.com/42262083/167073749-7b073110-52db-484f-ac74-a2308ee8735f.mp4
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/42262083/167075341-e04eacbe-69b2-4c8c-87f3-4a11f825bd0e.gif)
+
 
 ## Requirements
 - iOS 13.0+
