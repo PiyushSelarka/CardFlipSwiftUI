@@ -1,4 +1,4 @@
-# CardFlipSwiftUI
+# Card Flip 
 <a href="https://docs.swift.org/swift-book/" style="pointer-events: stroke;" target="_blank">
 <img src="https://img.shields.io/badge/swift-5.0-brightgreen">
 </a>
@@ -11,8 +11,6 @@
 </a>
 <p></p> 
 
-Card Flip animation in SwiftUI
-
 ## Preview
 ![Card flip](https://user-images.githubusercontent.com/42262083/167075628-bdf42456-4088-45f3-83a7-81f8ce59dba0.gif)
 
@@ -24,6 +22,24 @@ Card Flip animation in SwiftUI
 ```swift
 withAnimation(Animation.linear(duration: 0.5)) {
 }
+```
+
+# Tinder card animation
+
+## Preview
+![Tinder Card Animation](https://user-images.githubusercontent.com/42262083/167405994-17d24c9f-93c4-42fa-aec1-c4f7eb4dedc9.gif)
+
+
+## Requirements
+- iOS 15.0+
+- Xcode 13.0+
+
+## Usage
+```swift
+.gesture(gesture: Gesture)
+.scaleEffect(CGFloat)
+.rotationEffect(angle: Angle)
+.animation(animation: Animation)
 ```
 
 ## 📱 Check out other lists of our Mobile UI libraries
